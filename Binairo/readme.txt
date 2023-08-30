@@ -8,7 +8,7 @@ zelfreflectie in IPASS-AI_reflectieopdracht
 copyright hieronder
 
 POSTER BIJSCHRIFT
-1709190;2023;Rick Schellevis;BinairoSolver;binairo;rick.schellevis@student.hu.nl;https://github.com/SelfmadeRES/ArtificialIntelligence
+1709190;2023;Rick Schellevis;BinairoSolver;binairo;rick.schellevis@student.hu.nl;https://github.com/SelfmadeRES/IPASS
 
 Copyright (c) 2023 SelfmadeRES
 All Rights Reserved
